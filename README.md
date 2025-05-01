@@ -111,9 +111,10 @@ If you encounter issues:
 2. Verify your RPC URLs are correct and working.
 
 3. Ensure your server has enough resources:
-   - At least 4 CPU cores
-   - 8GB RAM
+   - At least 8 CPU cores
+   - 16GB RAM
    - 100GB free disk space
+   - 25 Mbps upload
 
 4. Check firewall settings to ensure the required ports are open.
 

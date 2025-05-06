@@ -27,7 +27,7 @@ The `aztec.sh` script automates the installation and configuration of an Aztec S
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/airdropinsiders/Aztec-Node.git
+   git clone https://github.com/wisnpras/Aztec-Node.git
    cd Aztec-Node
    ```
 
